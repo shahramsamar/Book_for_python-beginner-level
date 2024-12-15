@@ -79,5 +79,6 @@ Congratulations on completing the book! You now have the basic skills to write P
 ## License
 
 This book is released under the MIT License.
+![Alt](https://repobeats.axiom.co/api/embed/eabe6508a91fa38b4ace0060919094363916f544.svg "Repobeats analytics image")
 
 
