@@ -1,4 +1,3 @@
-# Book_for_python  
 **A curated collection of Python books and resources for learners of all levels.**  
 ---
 ## 📚 Branches Overview  
